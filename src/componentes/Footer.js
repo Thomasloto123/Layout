@@ -1,8 +1,8 @@
 const Footer = (props) => {
     return (
-        <Footer>
+        <footer>
             <p>Derechos Reservados. Totem Records 2024</p>
-        </Footer>
+        </footer>
 
     )
 }
