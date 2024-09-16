@@ -1,9 +1,11 @@
 
 import './App.css';
+
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Header from './componentes/Header';
 import Nav from './componentes/Nav';
 import Footer from './componentes/Footer';
+
 
 import ContactoPage from './pages/ContactoPage';
 import HomePage from './pages/HomePage';
